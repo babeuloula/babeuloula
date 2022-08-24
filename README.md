@@ -29,12 +29,13 @@ J'ai commencé par travailler pendant cinq années dans une agence de communicat
 
 Par la suite je suis rentré chez un éditeur de logiciel marketplaces (site e-commerce multi-vendeurs) puis chez un éditeur de logiciels dans le domaine de la santé.
 
-Je suis maintenant lead developer dans une agence de marketing client.
+Je suis maintenant lead developer back dans une agence de marketing client.
 
 En plus de mon travail, je réalise et collabores sur différents projets en plus de mon blog.
 
 Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-source et sous licence [Beerware](https://fr.wikipedia.org/wiki/Beerware).
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 Cards générées avec : https://github.com/anuraghazra/github-readme-stats
