@@ -1,8 +1,6 @@
 ## Hey 👋
 
-<div align="center">
 [![BaBeuloula's github stats](https://github-readme-stats.vercel.app/api?username=babeuloula&count_private=true&show_icons=true&theme=gotham)](https://github.com/babeuloula/babeuloula)
-</div>
 
 <!--
 ### Mes principaux repos
@@ -37,9 +35,7 @@ En plus de mon travail, je réalise et collabores sur différents projets en plu
 
 Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-source et sous licence [Beerware](https://fr.wikipedia.org/wiki/Beerware).
 
-<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 <!--
 Cards générées avec : https://github.com/anuraghazra/github-readme-stats
