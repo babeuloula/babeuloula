@@ -1,8 +1,18 @@
-## Hey 👋
+# Hey 👋
 
 [![BaBeuloula's github stats](https://github-readme-stats.vercel.app/api?username=babeuloula&count_private=true&show_icons=true&theme=gotham)](https://github.com/babeuloula/babeuloula)
 
-<!--
+## Mes sites
+
+- [Mon blog](https://www.babeuloula.fr)
+- [Mes photos](https://www.jeremy-reynaud.fr)
+
+## A propos de moi
+
+Je m'appelle Jérémy et je suis lead developer. J'ai commencé la programmation il y a plusieurs années maintenant sous Macromedia Dreamweaver MX 2004 sans rien connaître au HTML ou CSS.
+
+En plus de mon travail, je réalise et collabores sur différents projets en plus de mon blog.
+
 ### Mes principaux repos
 
 <a href="https://github.com/babeuloula/github-pr-review" title="Github PR Review">
@@ -11,29 +21,10 @@
 <a href="https://github.com/babeuloula/phpcs" title="PHPCS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=babeuloula&repo=phpcs&theme=gotham" />
 </a>
--->
-
-### Mes principaux sites
-
-- [Mon blog, BaBeuloula](https://www.babeuloula.fr)
-- [Mon site photos](https://www.jeremy-reynaud.fr)
-- [Générateur de contrats pour photographes](https://contrats.photos/)
-
-### A propos de moi
-
-Je m'appelle Jérémy et je suis lead developer. J'ai commencé la programmation il y a plusieurs années maintenant sous Macromedia Dreamweaver MX 2004 sans rien connaître au HTML ou CSS.
-
-#### Ce que je fais
-
-J'ai commencé par travailler pendant cinq années dans une agence de communication Lyonnaise entant que développeur multimédia. C'est-à-dire que je développais sur plusieurs supports (web, applications de bureau, applications mobiles ...).
-
-Par la suite je suis rentré chez un éditeur de logiciel marketplaces (site e-commerce multi-vendeurs) puis chez un éditeur de logiciels dans le domaine de la santé.
-
-Je suis maintenant lead developer back dans une agence de marketing client.
-
-En plus de mon travail, je réalise et collabores sur différents projets en plus de mon blog.
 
 Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-source et sous licence [Beerware](https://fr.wikipedia.org/wiki/Beerware).
+
+## Ce que j'écoute actuellement
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
