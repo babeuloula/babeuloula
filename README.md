@@ -11,8 +11,9 @@
 
 Je m'appelle Jérémy et je suis lead developer. J'ai commencé la programmation il y a plusieurs années maintenant sous Macromedia Dreamweaver MX 2004 sans rien connaître au HTML ou CSS.
 
-En plus de mon travail, je réalise et collabores sur différents projets en plus de mon blog.
+En plus de mon travail, je réalise et collabores sur différents projets (principalement open-source, comme [Symfony](https://github.com/symfony/symfony/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Ababeuloula+is%3Amerged)) en plus de mon blog.
 
+<!--
 ### Mes principaux repos
 
 <a href="https://github.com/babeuloula/github-pr-review" title="Github PR Review">
@@ -21,6 +22,7 @@ En plus de mon travail, je réalise et collabores sur différents projets en plu
 <a href="https://github.com/babeuloula/phpcs" title="PHPCS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=babeuloula&repo=phpcs&theme=gotham" />
 </a>
+-->
 
 Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-source et sous licence [Beerware](https://fr.wikipedia.org/wiki/Beerware).
 
