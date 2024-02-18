@@ -4,8 +4,9 @@
 
 ## Mes sites
 
-- [Mon blog](https://www.babeuloula.fr)
+- [Hardly Smart](https://www.hardly-smart.fr)
 - [Mes photos](https://www.jeremy-reynaud.fr)
+- [Mon blog (ancien)](https://www.babeuloula.fr)
 
 ## A propos de moi
 
