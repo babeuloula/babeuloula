@@ -34,7 +34,18 @@ Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-sourc
 
 ## Ce que j'écoute actuellement
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div class="text-center">
+	<a href="https://github.com/kittinan/spotify-github-profile" 
+		 target="_blank" 
+		 title="spotify-github-profile"
+		 rel="noopener"
+	>
+		<img src="https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
+				 class="img-fluid"
+				 alt="spotify-github-profile"
+	  >
+	</a>
+</div>
 
 <!--
 Cards générées avec : https://github.com/anuraghazra/github-readme-stats
