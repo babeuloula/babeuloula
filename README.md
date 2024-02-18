@@ -8,6 +8,11 @@
 - [Mes photos](https://www.jeremy-reynaud.fr)
 - [Mon blog (ancien)](https://www.babeuloula.fr)
 
+## Mes réseaux
+
+- [📷 Instagram (shooting)](https://www.instagram.com/jeremy.photos.shoot/)
+- [🤘 Instagram (live)](https://www.instagram.com/jeremy.photos.live/)
+
 ## A propos de moi
 
 Je m'appelle Jérémy et je suis lead developer. J'ai commencé la programmation il y a plusieurs années maintenant sous Macromedia Dreamweaver MX 2004 sans rien connaître au HTML ou CSS.
