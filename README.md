@@ -1,23 +1,24 @@
 # Hey 👋
 
-[![BaBeuloula's github stats](https://github-readme-stats.vercel.app/api?username=babeuloula&count_private=true&show_icons=true&theme=gotham)](https://github.com/babeuloula/babeuloula)
+Moi, c'est Jérémy 🚀
+
+Mon aventure dans le code a démarré un peu par hasard. Imaginez, moi, sans aucune idée de ce que c'était le HTML ou le CSS, me lançant tête baissée dans Dreamweaver MX 2004. Oui, ça date !
+
+Depuis, je n'ai pas lâché mon clavier. En dehors de mes heures à jongler avec les bugs du boulot, je m'éclate sur des tas de projets, souvent open-source ([Symfony](https://github.com/symfony/symfony/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Ababeuloula+is%3Amerged), ça vous dit quelque chose ?). J'adore l'idée de partager, d'échanger et de construire ensemble. D'ailleurs, tous mes projets sont en mode [Beerware](https://fr.wikipedia.org/wiki/Beerware). Traduction : si on se croise et que mon boulot te plaît, tu sais ce qu'il te reste à faire... 🍻
+
+Si t'as envie de programmer avec moi ou juste de discuter tech autour d'une bière virtuelle (ou non), je suis ton homme ! Ensemble, on peut sûrement créer des trucs qui déchirent.
 
 ## Mes sites
 
-- [Hardly Smart](https://www.hardly-smart.fr)
+- [Hardly Smart: work smarter, not harder](https://www.hardly-smart.fr) (blog collaboratif)
 - [Mes photos](https://www.jeremy-reynaud.fr)
-- [Mon blog (ancien)](https://www.babeuloula.fr)
+- [Metal Sound Media](https://metalsoundmedia.com) (webzine sur la musique metal)
+- [Mon blog](https://www.babeuloula.fr) (ancien)
 
 ## Mes réseaux
 
 - [📷 Instagram (shooting)](https://www.instagram.com/jeremy.photos.shoot/)
 - [🤘 Instagram (live)](https://www.instagram.com/jeremy.photos.live/)
-
-## A propos de moi
-
-Je m'appelle Jérémy et je suis lead developer. J'ai commencé la programmation il y a plusieurs années maintenant sous Macromedia Dreamweaver MX 2004 sans rien connaître au HTML ou CSS.
-
-En plus de mon travail, je réalise et collabores sur différents projets (principalement open-source, comme [Symfony](https://github.com/symfony/symfony/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Ababeuloula+is%3Amerged)) en plus de mon blog.
 
 <!--
 ### Mes principaux repos
@@ -36,13 +37,13 @@ Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-sourc
 
 <div class="text-center">
 	<a href="https://github.com/kittinan/spotify-github-profile" 
-		 target="_blank" 
-		 title="spotify-github-profile"
-		 rel="noopener"
+	   target="_blank" 
+	   title="spotify-github-profile"
+	   rel="noopener"
 	>
 		<img src="https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
-				 class="img-fluid"
-				 alt="spotify-github-profile"
+			 class="img-fluid"
+			 alt="spotify-github-profile"
 	  >
 	</a>
 </div>
