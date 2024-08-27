@@ -36,16 +36,7 @@ Si vous aussi vous souhaitez collaborez à mes projets, ils sont tous open-sourc
 ## Ce que j'écoute actuellement
 
 <div class="text-center">
-	<a href="https://github.com/kittinan/spotify-github-profile" 
-	   target="_blank" 
-	   title="spotify-github-profile"
-	   rel="noopener"
-	>
-		<img src="https://spotify-github-profile.vercel.app/api/view?uid=babeuloula&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
-			 class="img-fluid"
-			 alt="spotify-github-profile"
-	  >
-	</a>
+	[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=babeuloula&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <!--
